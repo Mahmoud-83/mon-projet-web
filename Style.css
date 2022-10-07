@@ -1,0 +1,53 @@
+Header{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #526579;
+    color: rgb(32, 28, 27);
+}
+p{
+    
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        margin-bottom: 20px;
+}
+body{
+    font-size: 16px;
+    color: #424242;
+    font-family: "Helvetica Neue", "Helvetica", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+   
+    line-height: 1.6;
+}
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;}
+.div1{
+    display: flex; 
+    justify-content:center; 
+}
+h1{
+    text-align: center;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: rgb(32, 28, 27);
+}
+.div2 {
+    border: none;
+   
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   
+  }
+  
