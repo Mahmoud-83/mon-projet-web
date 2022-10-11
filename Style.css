@@ -18,7 +18,11 @@ body{
     font-size: 16px;
     color: #424242;
     font-family: "Helvetica Neue", "Helvetica", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
-   
+    /*
+    background-image: url("dev.jpeg");
+    background-repeat:no-repeat;
+    background-position: top right;
+   */
     line-height: 1.6;
 }
 *, *::before, *::after {

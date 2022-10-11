@@ -1,0 +1,39 @@
+Header {
+    display: flex;
+    justify-content: safe center;;
+    padding: 5px;
+    background-color: #bdc9c9;
+    color: rgb(32, 28, 27);
+   
+    
+    
+}
+img{/*
+            background-image: url(images/logo.png);
+            background-position-x: initial;
+            background-position-y: initial;
+            background-size: initial;
+            background-repeat-x:repea-x;
+            background-repeat-y: repeat-y;
+            background-attachment: initial;
+            background-origin: initial;
+            background-clip: initial;
+            background-color: initial;
+            width: 106px;
+            height: 100px;
+            margin-top: 10px;
+            display: block;*/
+            
+                border-radius: 100%;
+              
+        }
+    #log{
+        
+            font-size: 1rem;
+            text-align:center +1 ;
+          
+          
+    }
+    
+        
+    
